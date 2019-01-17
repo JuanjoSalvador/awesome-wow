@@ -12,6 +12,7 @@
 * [Extensions for editors](#extensions-for-editors)
   * [Atom](#atom)
   * [VSCode](#vscode)
+  * [VIM](#vim)
 * [Guides and tutorials](#guides-and-tutorials)
 * [Lua resources](#lua-resources)
 * [UI designing](#ui-designing)
