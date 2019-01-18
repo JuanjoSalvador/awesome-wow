@@ -2,7 +2,7 @@
 
 # Awesome WoW
 
-> A curated list of awesome WoW AddOn development resources.
+> A curated list of awesome WoW AddOn's development resources and tools.
 
 ## Content
 
@@ -13,6 +13,7 @@
     * [Atom](#atom)
     * [VSCode](#vscode)
     * [VIM](#vim)
+* [Frameworks](#frameworks)
 * [Guides and tutorials](#guides-and-tutorials)
 * [Other resources](#other-resources)
 
@@ -30,10 +31,10 @@
 
 ## Editors and IDEs
 
-* [Atom](https://atom.io/) - *A hackable text editor for the 21st Century. Available for Windows, Mac and Linux*
-* [VSCode](https://code.visualstudio.com/) - *Extensible and customizable editor with a lot of powerful features. Available on Windows, Mac and Linux*
-* [Notepad++](https://notepad-plus-plus.org/) - *Pretty complete text editor with support for multiple languages. Windows only*
-* [ZeroBrane Studio](https://studio.zerobrane.com/) - *Lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support for Lua 5.1, Lua 5.2, Lua 5.3, LuaJIT, and other Lua engines. Available on Windows, Mac and Linux*
+* [Atom](https://atom.io/) - *A hackable text editor for the 21st Century. Available for Windows, Mac and Linux.*
+* [VSCode](https://code.visualstudio.com/) - *Extensible and customizable editor with a lot of powerful features. Available on Windows, Mac and Linux.*
+* [Notepad++](https://notepad-plus-plus.org/) - *Pretty complete text editor with support for multiple languages. Windows only.*
+* [ZeroBrane Studio](https://studio.zerobrane.com/) - *Lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support for Lua 5.1, Lua 5.2, Lua 5.3, LuaJIT, and other Lua engines. Available on Windows, Mac and Linux.*
 
   ### Extensions
 
@@ -49,6 +50,9 @@
   
   * [wowlua.vim](https://github.com/yarchived/wowlua.vim) - *WoW lua syntax for VIM*
 
+## Frameworks
+
+* [WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - *WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface.*
 
 ## Guides and tutorials
 
