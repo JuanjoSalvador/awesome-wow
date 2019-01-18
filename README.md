@@ -26,6 +26,7 @@
 ## Development AddOns
 
 * [WowLua](https://www.wowinterface.com/downloads/info7366-WowLua.html) - *WowLua is an in-game Lua scripting environment that includes an interactive Lua interpreter as well as a multi-page script editor*
+* [Lua Browser](https://wow.curseforge.com/projects/lua-browser) - *Using Lua Browser allows you to easily browse through the Lua environment, tables, widgets and other values.* 
 
 ## Editors and IDEs
 
