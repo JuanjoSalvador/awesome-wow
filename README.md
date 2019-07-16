@@ -22,7 +22,8 @@
 ## Books
 
 * [World of Warcraft Programming: A Guide and Reference for Creating WoW Addons](http://wowprogramming.com/store.html) ![](https://img.shields.io/badge/%20-deprecated-red.svg) 
-* [Programming in Lua](https://www.lua.org/pil/) 
+* [Programming in Lua](https://www.lua.org/pil/) (Amazon, paper)
+* [Programming in Lua](https://www.lua.org/manual/5.3/) (Digital, free)
 
 ## Development AddOns
 
